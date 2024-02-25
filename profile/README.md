@@ -23,15 +23,16 @@ Good Health and Well-being
  This project is a walking planner developed for expectant mothers to support them in achieving a physically and mentally healthy childbirth. The app provides appropriate walking exercise schedules based on the user's pregnancy progress, activity level, and preferred walking times, and automatically generates suitable walking routes. During this process, it integrates with Google Calendar to manage schedules, facilitating easy adherence to the planned activities.
 
  # App Demo
-![mamasteps-login](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/66e8576c-f20f-424b-88a5-3ca6d5f3a737)
-![mamasteps-home](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/8d4f7de3-d926-4017-b3b3-e9862c93734b)
-![mamasteps-calender](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/8ed2c111-f535-46c5-940a-1d70669e619c)
-![mamasteps-walk](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/6cdc7ed2-2795-4348-90bb-abe31a1d5396)
-![mamasteps-walk2](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/9ad5f0dc-0206-4f60-92d5-66c032d91335)
-![mamasteps-mypage](https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/751b9f7d-e74e-4f1c-a378-09936f94149e)
 
+<img width="364" alt="mamasteps-login" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/237420c9-7fbe-4002-92cb-49bc37f039ac">
+<img width="364" alt="mamasteps-home" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/f11ac177-f851-48b4-aba3-9cf0214f0da0">
 
+<img width="364" alt="mamasteps-calender" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/f6b79869-50e1-4bac-b51e-cc10343d3321">
 
+<img width="364" alt="mamasteps-mypage" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/0325c618-dc71-4622-9a98-c94341a81f79">
+
+<img width="364" alt="mamasteps-walk" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/0e9588f5-0aa9-4d4e-aa30-ae6b1ac90855">
+<img width="364" alt="mamasteps-walk2" src="https://github.com/INHAGDSC-stack-overflow/.github/assets/126947828/81315d75-c5ba-4a3a-9cba-ac12f9c5dff7">
 
 # About Implementation
 ## Backend
